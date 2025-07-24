@@ -1,0 +1,9 @@
+{
+  "name": "Live Stream Showcase",
+  "description": "A visually-rich interface showcasing recommended live streams, inspired by modern social streaming platforms. This is a frontend-only simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
